@@ -1,7 +1,7 @@
 {
   "name": "binding-selector",
-  "vendor": "vtex",
-  "version": "2.1.4",
+  "vendor": "biscoind",
+  "version": "0.0.0",
   "title": "Binding Selector App",
   "description": "",
   "mustUpdateAt": "2022-08-28",
@@ -42,14 +42,5 @@
       "name": "vbase-read-write"
     }
   ],
-  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema",
-  "billingOptions": {
-    "support": {
-      "url": "https://support.vtex.com/hc/requests"
-    },
-    "type": "free",
-    "availableCountries": [
-      "*"
-    ]
-  }
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
