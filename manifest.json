@@ -1,7 +1,7 @@
 {
   "name": "binding-selector",
   "vendor": "biscoind",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "title": "Binding Selector App",
   "description": "",
   "mustUpdateAt": "2022-08-28",
